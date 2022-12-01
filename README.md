@@ -1,7 +1,7 @@
 <!-- BLOG-POST-LIST:START -->
 <div id="header" align="center">
   <h1>Я RendeR в простонародье Никита или Никитос </h1>
-  <img src="https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif" width="40%"/>
+  <img src="https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif" width="45%"/>
 </div>
 <div id="badges" align="center">
 <a href="https://www.youtube.com/channel/UCEntnFJwDT0F7PipXAFJTGA">
@@ -23,6 +23,6 @@
 <div>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=render66&theme=radical"/><br>
 	<img src="https://github-readme-stats.vercel.app/api?username=RendeR66&show_icons=true&theme=radical"/><br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendeR66&theme=radical" width="40%" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendeR66&theme=radical" width="50%" />
 </div>
 <!-- BLOG-POST-LIST:END -->
