@@ -1,6 +1,6 @@
 <!-- BLOG-POST-LIST:START -->
 <div id="header" align="center">
-  <h1>Я RendeR в простонародье Никита или Никитос </h1>
+  <h3>Я RendeR или Никита, называйте меня как хотите </h3>
   <img src="https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif" width="45%"/>
 </div>
 <div id="badges" align="center">
