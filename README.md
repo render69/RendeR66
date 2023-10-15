@@ -1,7 +1,5 @@
 <!-- BLOG-POST-LIST:START -->
-<div>
-	<h1>Я RendeR или Никита, называйте меня как хотите</h1>	
-</div>
+####Я RendeR или Никита, называйте меня как хотите
 <div>
   <h2>Мy little stack:</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
