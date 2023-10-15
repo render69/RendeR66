@@ -1,9 +1,8 @@
 <!-- BLOG-POST-LIST:START -->
-<div id="header" align="center">
-  <h3>Я RendeR или Никита, называйте меня как хотите </h3>
-  <img src="https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif" width="45%"/>
+<div align="center">
+  <h3>Я RendeR или Никита, называйте меня как хотите ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) </h3>
 </div>
-<div id="badges" align="center">
+<div align="center">
 <a href="https://www.youtube.com/channel/UCEntnFJwDT0F7PipXAFJTGA">
 	<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 </a>
