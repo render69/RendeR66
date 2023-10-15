@@ -1,6 +1,7 @@
 <!-- BLOG-POST-LIST:START -->
 <div align="center">
-  <h3>Я RendeR или Никита, называйте меня как хотите ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) </h3>
+	<h3>Я RendeR или Никита, называйте меня как хотите</h3>
+	[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 </div>
 <div align="center">
 <a href="https://www.youtube.com/channel/UCEntnFJwDT0F7PipXAFJTGA">
