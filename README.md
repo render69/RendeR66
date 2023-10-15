@@ -1,5 +1,5 @@
 <!-- BLOG-POST-LIST:START -->
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=f6aa4824-412b-4946-b8d8-3df28c51cf20)](https://github.com/anuraghazra/github-readme-stats)
 <div>
 	<h1>Я RendeR или Никита, называйте меня как хотите</h1>	
 </div>
@@ -16,6 +16,6 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendeR66&theme=radical" width="50%" />
 	
 </div>
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=f6aa4824-412b-4946-b8d8-3df28c51cf20)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- BLOG-POST-LIST:END -->
