@@ -29,9 +29,14 @@
 		<img src="https://github-readme-stats.vercel.app/api?username=RendeR66&show_icons=true&theme=radical"/><br>
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendeR66&theme=radical" />
 	</div>
-	<h3>WakaTime:</h3>
+	<h3 >WakaTime:</h3>
+<div>
 	
-[![RendeR66 wakatime stats](https://github-skiexx-stats-skiexx.vercel.app/api/wakatime?username=f6aa4824-412b-4946-b8d8-3df28c51cf20&show_icons=true&locale=en&layout=compact&hide_border=true&theme=transparent&show_icons=ture&icon_color=e2a478&text_color=abb0c9&title_color=84a0c6&count_private=true)](https://wakatime.com/@f6aa4824-412b-4946-b8d8-3df28c51cf20)  
+[![RendeR66 wakatime stats Languages](https://wakatime.com/share/@f6aa4824-412b-4946-b8d8-3df28c51cf20/19b1aa19-bca3-401c-9a8f-2dddba7c09d5.svg)](https://wakatime.com/@f6aa4824-412b-4946-b8d8-3df28c51cf20)
+[![RendeR66 wakatime stats Editors](https://wakatime.com/share/@f6aa4824-412b-4946-b8d8-3df28c51cf20/cbd7c0de-3419-4bc4-a7e9-5bce9c3ba90c.svg)](https://wakatime.com/@f6aa4824-412b-4946-b8d8-3df28c51cf20)
+[![RendeR66 wakatime stats Operating Systems](https://wakatime.com/share/@f6aa4824-412b-4946-b8d8-3df28c51cf20/9d26198d-7108-443e-ad86-5da863258bda.svg)](https://wakatime.com/@f6aa4824-412b-4946-b8d8-3df28c51cf20)
+[![RendeR66 wakatime stats Categories](https://wakatime.com/share/@f6aa4824-412b-4946-b8d8-3df28c51cf20/00ff74f1-786f-4028-8e93-720c9a25fe2a.svg)](https://wakatime.com/@f6aa4824-412b-4946-b8d8-3df28c51cf20)
+</div>	
  	<h3>My Codewars Stats:</h3>
 	<img src= "https://www.codewars.com/users/RendeR66/badges/large"/>
  <h3>My LeetCode  Stats:</h3>
@@ -118,7 +123,6 @@ Main: <br>
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)<br>
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)<br>
 </div>
-
  
  
 <!-- BLOG-POST-LIST:END -->
