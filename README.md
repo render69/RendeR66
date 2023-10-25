@@ -31,11 +31,10 @@
 	</div>
 	<h3 >WakaTime:</h3>
 <div>
-	
-[![RendeR66 wakatime stats Languages](https://wakatime.com/share/@f6aa4824-412b-4946-b8d8-3df28c51cf20/19b1aa19-bca3-401c-9a8f-2dddba7c09d5.svg)](https://wakatime.com/@f6aa4824-412b-4946-b8d8-3df28c51cf20)
-[![RendeR66 wakatime stats Editors](https://wakatime.com/share/@f6aa4824-412b-4946-b8d8-3df28c51cf20/cbd7c0de-3419-4bc4-a7e9-5bce9c3ba90c.svg)](https://wakatime.com/@f6aa4824-412b-4946-b8d8-3df28c51cf20)
-[![RendeR66 wakatime stats Operating Systems](https://wakatime.com/share/@f6aa4824-412b-4946-b8d8-3df28c51cf20/9d26198d-7108-443e-ad86-5da863258bda.svg)](https://wakatime.com/@f6aa4824-412b-4946-b8d8-3df28c51cf20)
-[![RendeR66 wakatime stats Categories](https://wakatime.com/share/@f6aa4824-412b-4946-b8d8-3df28c51cf20/00ff74f1-786f-4028-8e93-720c9a25fe2a.svg)](https://wakatime.com/@f6aa4824-412b-4946-b8d8-3df28c51cf20)
+	<img style="width: 49%; height: 49%;" src="https://wakatime.com/share/@f6aa4824-412b-4946-b8d8-3df28c51cf20/19b1aa19-bca3-401c-9a8f-2dddba7c09d5.svg">
+	<img style="width: 49%; height: 49%;" src="https://wakatime.com/share/@f6aa4824-412b-4946-b8d8-3df28c51cf20/cbd7c0de-3419-4bc4-a7e9-5bce9c3ba90c.svg">
+	<img style="width: 49%; height: 49%;" src="https://wakatime.com/share/@f6aa4824-412b-4946-b8d8-3df28c51cf20/9d26198d-7108-443e-ad86-5da863258bda.svg">
+	<img style="width: 49%; height: 49%;" src="https://wakatime.com/share/@f6aa4824-412b-4946-b8d8-3df28c51cf20/00ff74f1-786f-4028-8e93-720c9a25fe2a.svg">
 </div>	
  	<h3>My Codewars Stats:</h3>
 	<img src= "https://www.codewars.com/users/RendeR66/badges/large"/>
