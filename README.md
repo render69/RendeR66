@@ -11,6 +11,10 @@
 </p>
 <div>
   <h2>My Stack:</h2>
+  <h3>Web</h3>
+	
+  <h3>Desctop</h3>
+  
 
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) - 5/10 <br>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) + ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) + ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) - 5/10 My forever <br>
