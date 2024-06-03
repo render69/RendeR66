@@ -12,17 +12,18 @@
 <div>
   <h2>My Stack:</h2>
   <h3>Web</h3>
-	
+	<img src="https://github.com/RendeR66/RendeR66/blob/main/sass-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/RendeR66/RendeR66/blob/main/react-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/RendeR66/RendeR66/blob/main/django-plain-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/RendeR66/RendeR66/blob/main/postgresql-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/RendeR66/RendeR66/blob/main/docker-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/RendeR66/RendeR66/blob/main/nginx-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/RendeR66/RendeR66/blob/main/archlinux-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/RendeR66/RendeR66/blob/main/firebase-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <h3>Desctop</h3>
-  
-
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) - 5/10 <br>
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) + ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) + ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) - 5/10 My forever <br>
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) - 8/10 <br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) - 8/10 <br>
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) - 1/10 <br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) - 3/10 <br>
-
+	<img src="https://github.com/RendeR66/RendeR66/blob/main/dotnetcore-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/RendeR66/RendeR66/blob/main/python-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/RendeR66/RendeR66/blob/main/postgresql-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 <h1 align="center">:fire: My Statistics :</h1>
 <div>
@@ -43,7 +44,7 @@
  <h3>My LeetCode  Stats:</h3>
  	<img src= "https://leetcard.jacoblin.cool/RendeR66?theme=dark&font=Comfortaa&ext=activity&site=cn">
 </div>
-<div>
+<!-- <div>
 	<h2>💻 IDEs/Editors</h2>
 
  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -138,17 +139,13 @@ Main: <br>
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-</div>
+</div> -->
 <div>
 	<h2>Опыт работы/Work experience & Резюме/Resume</h2>
 	Никита, 18 лет, на сегодняшний день 3-тий курс, учусь по специальности "Информационные системы и программирование".
 	В колледже активно изучаю MSSQL и .NET платформу(C#). В свободное время дома, изучаю базовые аспекты системного админимтрирования. Также, изучаю ASP.NET, Python, PostreSQL.
 	Имею навыки написания ботоа на Aiorgam-е 3.3.0, Вёрстка сайтов, настройка Linux серверов и систем.
 	Умение настраивать nginx с установкой ssl сертификатов для сайта с помощью letsencrypt + certbot. <br>
-	Настройка firewall-cmd в дистрибутивах основанных на Red Had и на которых его нет, с дельнейшей настройкой.
 </div>
-
-
- ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)💊⚰🏴‍☠️
  
 <!-- BLOG-POST-LIST:END -->
