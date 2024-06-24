@@ -18,13 +18,13 @@
 	<img src="https://github.com/RendeR66/RendeR66/blob/main/postgresql-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/RendeR66/RendeR66/blob/main/docker-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/RendeR66/RendeR66/blob/main/nginx-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/RendeR66/RendeR66/blob/main/archlinux-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/RendeR66/RendeR66/blob/main/firebase-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <h3>Desctop</h3>
 	<img src="https://github.com/RendeR66/RendeR66/blob/main/dotnetcore-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/RendeR66/RendeR66/blob/main/cplusplus-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/RendeR66/RendeR66/blob/main/python-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/RendeR66/RendeR66/blob/main/postgresql-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/RendeR66/RendeR66/blob/main/archlinux-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 <h1 align="center">:fire: My Statistics :</h1>
 <div>
