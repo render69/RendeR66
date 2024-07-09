@@ -33,10 +33,6 @@
 		<img src="https://github-readme-stats.vercel.app/api?username=RendeR66&show_icons=true&theme=radical"/><br>
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendeR66&theme=radical" />
 	</div>
-	<h3 >WakaTime:</h3>
-<div>
-	<img src="https://wakatime.com/share/@f6aa4824-412b-4946-b8d8-3df28c51cf20/19b1aa19-bca3-401c-9a8f-2dddba7c09d5.svg">
-</div>	
  	<h3>My Codewars Stats:</h3>
 	<img src= "https://www.codewars.com/users/RendeR66/badges/large"/>
  <h3>My LeetCode  Stats:</h3>
