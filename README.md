@@ -10,7 +10,7 @@
 	<a href="https://wakatime.com/@f6aa4824-412b-4946-b8d8-3df28c51cf20"><img src="https://wakatime.com/badge/user/f6aa4824-412b-4946-b8d8-3df28c51cf20.svg" alt="Total time coded since Jul 8 2023" /></a>
 </p>
 <div>
-  <h2>My Stack:</h2>
+  <h2>I use:</h2>
 	<img src="https://github.com/RendeR66/RendeR66/blob/main/sass-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/RendeR66/RendeR66/blob/main/react-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/RendeR66/RendeR66/blob/main/django-plain-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
