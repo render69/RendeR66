@@ -131,12 +131,6 @@ Main: <br>
 ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 </div> -->
-<div>
-	<h2>Опыт работы/Work experience & Резюме/Resume</h2>
-	Никита, 18 лет, на сегодняшний день 3-тий курс, учусь по специальности "Информационные системы и программирование".
-	В колледже активно изучаю MSSQL и .NET платформу(C#). В свободное время дома, изучаю базовые аспекты системного админимтрирования. Также, изучаю ASP.NET, Python, PostreSQL.
-	Имею навыки написания ботоа на Aiorgam-е 3.3.0, Вёрстка сайтов, настройка Linux серверов и систем.
-	Умение настраивать nginx с установкой ssl сертификатов для сайта с помощью letsencrypt + certbot. <br>
-</div>
+
  
 <!-- BLOG-POST-LIST:END -->
