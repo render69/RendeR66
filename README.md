@@ -23,18 +23,7 @@
 	<img src="https://github.com/RendeR66/RendeR66/blob/main/python-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/RendeR66/RendeR66/blob/main/archlinux-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
-<h1 align="center">:fire: My Statistics :</h1>
-<div>
-	<div align="center">
-		<img src="http://github-readme-streak-stats.herokuapp.com?user=render66&theme=radical"/><br>
-		<img src="https://github-readme-stats.vercel.app/api?username=RendeR66&show_icons=true&theme=radical"/><br>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendeR66&theme=radical" />
-	</div>
- 	<h3>My Codewars Stats:</h3>
-	<img src= "https://www.codewars.com/users/RendeR66/badges/large"/>
- <h3>My LeetCode  Stats:</h3>
- 	<img src= "https://leetcard.jacoblin.cool/RendeR66?theme=dark&font=Comfortaa&ext=activity&site=cn">
-</div>
+
 <!-- <div>
 	<h2>💻 IDEs/Editors</h2>
 
