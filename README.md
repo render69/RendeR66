@@ -15,7 +15,6 @@
 	<img src="https://github.com/RendeR66/RendeR66/blob/main/react-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/RendeR66/RendeR66/blob/main/django-plain-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/RendeR66/RendeR66/blob/main/postgresql-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/RendeR66/RendeR66/blob/main/docker-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/RendeR66/RendeR66/blob/main/nginx-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/RendeR66/RendeR66/blob/main/firebase-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/RendeR66/RendeR66/blob/main/dotnetcore-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
